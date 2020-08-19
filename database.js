@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 
-const user = 'Evan';
+const user = 'postgres';
 const password = 'Hashy';
 const host = 'localhost';
 const database = 'testingpassport';
